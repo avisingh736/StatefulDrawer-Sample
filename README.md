@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+<img src="ss_1.png" width="300" height="540">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
