@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+Navigation Drawer.
 
 <img src="ss_1.png" width="300" height="540">
 
